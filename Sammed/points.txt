@@ -1,0 +1,6 @@
+what is kernal size?
+what is channels?
+input_nc is the input number of channels
+output_nc is the output number of channels
+what is filters?
+Conv2DTranspose output - input
